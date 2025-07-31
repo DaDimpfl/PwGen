@@ -8,7 +8,8 @@ The string will be added to the clipboard for instant usability.
 To use the generator you need Python 3.0 or newer installed on your device!
 Then you can just clone the repo to your desired directory.
 
-```git clone https://github.com/DaDimpfl/PwGen.git
+```
+git clone https://github.com/DaDimpfl/PwGen.git
 ```
 
 ## Usage
