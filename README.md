@@ -15,3 +15,5 @@ git clone https://github.com/DaDimpfl/PwGen.git
 ## Usage
 
 To use the generator just execute either the pw_gen.py to have no empty console window to appear, or the main.py if the console window is not bothering you.
+
+To change the amount of words used in the password, change the PASSWORD_LENGTH in the constants.py
